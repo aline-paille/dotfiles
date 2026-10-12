@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = aline.lepailleur@gmail.com
+	name = Aline Lepailleur
